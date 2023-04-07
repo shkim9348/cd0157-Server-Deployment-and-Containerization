@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: shkim
+    Default: shkim9348
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
